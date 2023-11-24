@@ -4,4 +4,5 @@ This is a repository for the L2 Russian of Forest Nenets speakers (FNL2Russian) 
 
 Repo structure:
 - `youngconf_slides/` -- LaTeX project of my slides for the 20th Conference on Typology and Grammar for Young Scholars (in Russian)
+- `youngconf-FN-slides.pdf` -- slides on FN stress, length and vowel quality alternations
 - `data_processing.ipynb` -- notebook for data preprocessing and statistical testing of hypotheses
